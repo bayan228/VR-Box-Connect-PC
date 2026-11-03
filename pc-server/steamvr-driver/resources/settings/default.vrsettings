@@ -1,0 +1,6 @@
+{
+  "driver_vrbox": {
+    "enable": true,
+    "loadPriority": 0
+  }
+}

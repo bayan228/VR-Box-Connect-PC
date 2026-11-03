@@ -1,0 +1,8 @@
+{
+  "name": "vrbox",
+  "directory": "",
+  "alwaysActivate": false,
+  "resourceOnly": false,
+  "redirectsDisplay": true,
+  "hmd_presence": ["*.*"]
+}

@@ -1,0 +1,17 @@
+/.tools/
+/.build-tmp/
+**/build/
+**/.gradle/
+**/.cxx/
+**/local.properties
+*.jks
+*.keystore
+*.user
+pc-server/CMakeCache.txt
+pc-server/CMakeFiles/
+pc-server/cmake_install.cmake
+pc-server/*.vcxproj*
+pc-server/*.sln*
+pc-server/*.dir/
+pc-server/x64/
+pc-server/Release/
